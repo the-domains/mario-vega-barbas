@@ -1,0 +1,28 @@
+name: Mario Vega Barbas
+favicon: null
+layout_spectrum: 0.7640162182506174
+typography_spectrum: 0.8851015830878168
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6694138175807893
+  lightness: 0.24919585301540792
+  saturation: 0.6589931340422481
+  rhythmicContrast: 0.6351986667141318
+purpose: []
