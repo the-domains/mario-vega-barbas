@@ -1,7 +1,7 @@
 name: Mario Vega Barbas
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.8851015830878168
+layout_spectrum: 0.25982
+typography_spectrum: 0.24911
 title: My Research World
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#a0a09f'
   brandStrength: 0.5
   lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
