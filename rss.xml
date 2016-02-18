@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mario Vega Barbas]]></title>
+        <description><![CDATA[Mario Vega Barbas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 08:38:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<h1>Contact</h1>]]></description>
+            <link>undefinedcontact/index.html</link>
+            <guid isPermaLink="false">8d271eed-1b54-41f2-80ec-46324fbb5c8f</guid>
+            <pubDate>Thu, 18 Feb 2016 08:38:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
